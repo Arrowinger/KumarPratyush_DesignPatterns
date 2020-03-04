@@ -1,0 +1,36 @@
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:24 - This is example of Singleton Pattern Method
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:27 - Output of first singleton Object :
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:28 - com.epam.Design_Pattern.SingletonPattern.SingleTon@6d3af739
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:29 - Output of second singleton Object :
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:30 - com.epam.Design_Pattern.SingletonPattern.SingleTon@6d3af739
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:32 - Both the objects are equal 
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:36 - This is example of Factory Pattern Method
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:40 - This is a Samsung Phone
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:43 - This is a MI Phone
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:46 - Example of Adapter Pattern
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:12 - I am an employee of EPAM
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:53 - Example of Composite Pattern
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - RAM:3000
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:26 - Peri
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - Mouse:150
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - Monitor:6000
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:26 - Computer
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:26 - Peri
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - Mouse:150
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - Monitor:6000
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:26 - Cabinet
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - HDD:4000
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:26 - Mother Board
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - CPU:10000
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:15 - RAM:3000
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:58 - Example of Observer Pattern
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:19 - Hey Pratyush Video Uploaded : How to learn JAVA
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:19 - Hey Harsh Video Uploaded : How to learn JAVA
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:19 - Hey Silika Video Uploaded : How to learn JAVA
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:19 - Hey Raman Video Uploaded : How to learn JAVA
+2020-03-05 00:47:43 WARN  com.epam.Design_Pattern.Client:63 - Example of State Pattern
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:13 - Vibration........
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:13 - Vibration........
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:13 - Silent!!!!!
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:13 - Silent!!!!!
+2020-03-05 00:47:43 INFO  com.epam.Design_Pattern.Client:13 - Silent!!!!!
